@@ -1,12 +1,6 @@
----
-layout: page
-title: Outline for Web Site
-permalink: /outline/
----
 
 - Shaving Project Reviews
-	- Mens Skin Care
-		- The industry of mens skins care has kicked off over the last 10 years. No longer is a taboo for mens to purchase skin care products.  Poplaur department store has taken advantae of these trends as it has become more mainstream.  The is an air of sophsitication when it comes to shaving. Espcually, when you incorpaotr shaving foam, a brush, and a single blade ravor.
+	-
 		- For men in general, there are not many sources of informarion. For men of color, especially Arficina aamerican, black of African decent, we face some of the wrost issye with shaving and ingrown hairs.
 	- Shaving Razros
 		- Gilette
@@ -27,7 +21,7 @@ permalink: /outline/
 		- Adonis
 		- Bevel
 		- Philips
-		- 
+		-
 	- Clippers
 		- Cut you hari from home
 		- Cut buddy
