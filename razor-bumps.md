@@ -9,7 +9,7 @@ Shaving improperly will quickly introduce most black men into a painful and unsi
 
 In general, you can combat razor bumps with a combination of the following:
 
-- Men's Skin Care and Hygenie
+- Men's Skin Care and Hygiene
 - Proper Shaving Routine / Method
 - Razor Bump Treatment Products
 
