@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-date: 2017-02-07T11:35:00+00:00
+date: 2017-02-07
 author_profile: false
 ---
 
