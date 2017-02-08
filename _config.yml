@@ -70,7 +70,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-90707253-1"
 
@@ -183,7 +183,7 @@ kramdown:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -198,7 +198,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
 
 
 # Sass/SCSS
@@ -266,18 +265,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: # true
-      share: false
-      related: true
