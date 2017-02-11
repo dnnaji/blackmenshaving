@@ -8,6 +8,8 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+  - title: "Terms"
+    url: /terms/
   - title: "Sitemap"
     url: /sitemap/
   # - title: Shaving
