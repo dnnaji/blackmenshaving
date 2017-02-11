@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+header:
+  image: /assets/images/about-photo.jpg
 date: 2017-02-07
 modified: 2017-02-11
 ---
