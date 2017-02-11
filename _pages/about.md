@@ -2,9 +2,15 @@
 title: "About"
 permalink: /about/
 date: 2017-02-07
-author_profile: false
+modified: 2017-02-11
 ---
 
-The industry of men’s skin care has kicked off over the last 10 years. No longer is a taboo for men to purchase skin care products. Popular department stores have taken advantage of these trends as it has become more mainstream. The is an air of sophistication when it comes to shaving. Especially, when you incorporate shaving foam, a brush, and a single blade razor.
+The industry of men’s skin care has kicked off over the last 10 years. No longer is it taboo for men to purchase skin care products.
 
-My experiences and journey for frustrations free shaving will be shared on this website.
+High-end department stores (i.e. Nordstrom and Neiman Marcus) have taken advantage of these trends as it has become more mainstream.
+
+Unfortunately, major brands have not catered to Black Men and "The Best a Man Can Shave" results in irritation and discomfort with traditional shaving methods (i.e. Gillette Razor). Tristan from [Walker & Company](http://walkerandcompany.com) has worked to change this through the introduction of the Bevel System, a series of products for people of color, and educational information.
+
+Shaving is an art and helps to enhance the sophistication of a gentleman. Especially, when you incorporate a shaving brush and a single-blade razor.
+
+This website is here to share my experiences and journey towards frustration-free shaving.
