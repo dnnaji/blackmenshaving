@@ -8,9 +8,9 @@ modified: 2017-02-11
 
 ## Terms of Use
 
-### Disclaimers
+#### Disclaimers
 
-This Site Does Not Provide Medical Advice, Diagnosis or Treatment.
+_This Site Does Not Provide Medical Advice, Diagnosis or Treatment._
 
 The contents of the Website such as texts, graphics, images, and all other information are for informational purposes only. The content is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Specific information should be sought from a licensed and knowledgeable professional.
 
@@ -18,7 +18,7 @@ This Website provides links to websites maintained by third parties. Any informa
 
 This Website and any content, materials, features, or products available or sold on or through the Website are available on an “as is” basis.
  
-### Accuracy of Content
+#### Accuracy of Content
 
 The use of the Website and its content is at your own risk. However, there has been a reasonable effort to ensure that the content of the Website is accurate and up-to-date.
 
